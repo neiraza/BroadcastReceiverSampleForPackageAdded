@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">インストウォチ</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_search_view_query_hint">検索してね</string>
+    <string name="activity_main_app_installed_list_update_title">アプリ一覧</string>
+    <string name="activity_main_package_installed_list_update_title">pkg一覧</string>
+</resources>
