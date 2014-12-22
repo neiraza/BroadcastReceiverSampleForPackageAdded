@@ -15,7 +15,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <receiver android:name=".receivers.AppInstalledObserveReceiver">
+        <receiver
+            android:name=".receivers.AppInstalledObserveReceiver"
+            android:process=":remote">
             <intent-filter>
                 <action android:name="android.intent.action.PACKAGE_ADDED" />
                 <data android:scheme="package" />
