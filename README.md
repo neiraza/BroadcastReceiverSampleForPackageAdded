@@ -1,4 +1,4 @@
-BroadcastReceiverSampleForPackageAdded
+アプリのインストール検知実験
 ======================================
 
 このアプリは暇つぶし目的で、
